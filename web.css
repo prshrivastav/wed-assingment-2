@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cinzel+Decorative&display=swap');
+
+.head {
+  font-size: 1.4rem;
+  float: left;
+  margin-top: 11.3px;
+  font-family: 'Cinzel', serif;
+  color: #112D4E;
+}
+
+.select {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  margin-bottom: 20px;
+}
+
+.para {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+    margin-bottom: -20px;
+}
+
+.logo {
+  border-radius: 50%;
+  box-shadow: 1px 1px 10px 1px grey;
+  margin-top: 5px;
+}
+
+.code {
+  text-align: right;
+  font-family: 'Cinzel', serif;
+}
+
+.centre {
+  text-align: right;
+  margin-right: 10px;
+}
+
+.obi {
+  font-weight: bold;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+}
+
+.wan {
+  font-weight: bold;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin: 0 60px;
+  background-color: #FFF5E4;
+}
+
+.anakin {
+  font-style: italic;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin: 0 60px;
+}
+
+.skywalker {
+  font-style: italic;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin: 0 60px;
+  background-color: #DBE2EF;
+}
+
+.luke {
+  text-decoration: underline;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin: 0 60px;
+}
+
+.yoda {
+  text-decoration: underline;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin: 0 60px;
+  background-color: #9DF3C4;
+}
+
+.button {
+  text-align: center;
+  background-color: #112D4E;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 1.2rem;
+  padding: 6px 19px;
+  display: inline-block;
+  border-radius: 5px;
+  border: 1px solid;
+  color: white;
+}
+
+.botton {
+  font-family: 'Cinzel Decorative', cursive;
+
+  font-size: 1.2rem;
+  text-align: center;
+  background-color: #112D4E;
+  padding: 6px 19px;
+  display: inline-block;
+  border-radius: 5px;
+  border: 1px solid;
+  color: white;
+
+}
+
+.btn {
+
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.a {
+  color: #FF9494;
+}
+
+.b {
+  color: #850E35;
+}
+
+.c {
+  color: #112D4E;
+}
+
+.d {
+  color: #3F72AF;
+}
+
+.e {
+  color: #1FAB89;
+}
+
+.f {
+  color: #62D2A2;
+}
